@@ -1,7 +1,7 @@
-CREATE DATABASE epiz_23658448_unique_chicken
+CREATE DATABASE unique_chicken
 ;
 
-use epiz_23658448_unique_chicken
+use unique_chicken
 ;
 
 CREATE TABLE unique_data (
