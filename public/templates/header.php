@@ -21,6 +21,7 @@
     <ul>
         <li><a href="create.php">Add a new chicken</a></li>   
         <li><a href="update.php">Update a chickens details</a></li>
+        <li><a href="rationale.pdf">Rationale</a></li>
        
     </ul>
         </nav>
